@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/2020.tsx"],"names":["Page2020"],"mappings":"2FAAA,uBAQeA,UANE,WACf,OACE","file":"component---src-pages-2020-tsx-b965690be473a99132cb.js","sourcesContent":["import * as React from \"react\"\n\nconst Page2020 = () => {\n  return (\n    <div>2020 content</div>\n  )\n}\n\nexport default Page2020\n"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.tsx"],"names":["NotFound"],"mappings":"6FAAA,uBAQeA,UANE,WACf,OACE","file":"component---src-pages-404-tsx-3e17584350d9614c3d51.js","sourcesContent":["import * as React from \"react\"\n\nconst NotFound = () => {\n  return (\n    <div>Not Found</div>\n  )\n}\n\nexport default NotFound\n"],"sourceRoot":""}

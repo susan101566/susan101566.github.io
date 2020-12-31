@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{oeRZ:function(n,e,t){"use strict";t.r(e);var o=t("q1tI");e.default=function(){return o.createElement("div",null,"2020 content")}}}]);
+//# sourceMappingURL=component---src-pages-2020-tsx-b965690be473a99132cb.js.map
