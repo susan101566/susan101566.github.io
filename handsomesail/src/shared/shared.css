@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Volkhov&display=swap');
+:root {
+  --header-font: "Volkhov", serif;
+  --content-font: "Lato", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--content-font);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}

@@ -1,0 +1,39 @@
+@import "shared.css";
+
+.main {
+  max-width: 1024px;
+  margin: 12px auto;
+  padding: 24px;
+}
+
+.header {
+  font-family: var(--header-font);
+  font-size: 36px;
+  text-align: center;
+}
+
+.content {
+  font-family: var(--content-font);
+  font-size: 20px;
+  line-height: 36px;
+  text-indent: 24px;
+}
+
+.footer {
+  font-family: var(--header-font);
+  margin-top: 100px;
+  text-align: center;
+}
+
+.section {
+  margin-bottom: 96px;
+}
+
+.sectionTitle {
+  font-family: var(--header-font);
+  font-size: 24px;
+  text-indent: 0;
+}
+
+.sectionContent {
+}
