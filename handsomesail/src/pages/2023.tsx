@@ -4,7 +4,7 @@ import Article from "../shared/article"
 let content = `
 I used to think that leaving a company is like a break up, we each did something that somehow hurt the other one, and we can no longer be together, “like ever” (Swifties?). This view was based on my single instance of departure from Dropbox, yet it was everything I knew.
 
-When I left Dropbox in 2017, it was a spite-based resignation if I’m being honest. Even though I wasn’t technically a new grad anymore, I probably felt what most new grads felt. I wasn’t being valued, I wasn’t given the most impactful projects, I wasn’t showing off my most capable work, I wasn’t promoted, etc. I did everything I could to chase what I perceived as the most promising projects and worked my way up to lead them, but it was not enough. So at the end, I quit.
+When I left Dropbox in 2017, it was a spite-based resignation if I’m being honest. Even though I wasn’t technically a new grad anymore, I probably felt what a lot of new grads felt. I wasn’t being valued, I wasn’t given the most impactful projects, I wasn’t showing off my most capable work, I wasn’t promoted, etc. I did everything I could to chase what I perceived as the most promising projects and worked my way up to lead them, but it was not enough. So at the end, I quit.
 
 I had interviewed at many companies, but none stood out as much as Figma. I was intensely intrigued by how the software could have been written, for something artistic nonetheless. At the beginning, I thought it was all HTML or something, but I couldn’t have been more wrong. I thought, even if I didn’t get a career boost from this, I could spend all day reading the codebase and I won’t be bored. In my darkest days at Figma, this turned out to be the pull that kept me there.
 

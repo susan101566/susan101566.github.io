@@ -3,5 +3,6 @@ module.exports = {
       siteUrl: 'http://www.handsomesail.com'
     },
     plugins: [
+      'gatsby-plugin-cname'
     ],
   }
