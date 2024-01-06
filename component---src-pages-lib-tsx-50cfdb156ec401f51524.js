@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{ldzW:function(n,t,e){"use strict";function r(n){return n.split("\n").map((function(n,t){return React.createElement("p",{key:t},n.trim())}))}e.r(t),e.d(t,"transformText",(function(){return r})),t.default={}}}]);
-//# sourceMappingURL=component---src-pages-lib-tsx-50cfdb156ec401f51524.js.map
