@@ -24,7 +24,9 @@ I am so thankful for the people who had faith in me when they invited me onboard
 `
 
 const Page = () => {
-  return <Article title={"Leaving Figma"} sections={[{ title: "", content }]} />
+  return (
+    <Article title={"2023 - Bye, Figma"} sections={[{ title: "", content }]} />
+  )
 }
 
 export default Page
