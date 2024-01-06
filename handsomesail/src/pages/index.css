@@ -3,12 +3,10 @@
 
 .menu {
   font-family: var(--header-font);
-  font-size: 40px;
-  display: flex;
-}
-
-.menu a {
-  margin-right: 12px;
+  margin-top: 36px;
+  font-size: 24px;
+  display: grid;
+  text-align: center;
 }
 
 .home {

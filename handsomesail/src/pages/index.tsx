@@ -8,8 +8,13 @@ const Home = () => {
       <div className="container">
         <img className="cover" src={hslogo}></img>
         <div className="menu">
-          <a href="/2017" className="old">2017</a>
-          <a href="/2020">2020</a>
+          <a href="/figma">Leaving Figma</a>
+          <a href="/2020" className="old">
+            2020
+          </a>
+          <a href="/2017" className="old">
+            2017
+          </a>
         </div>
       </div>
     </div>
