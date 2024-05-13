@@ -8,7 +8,8 @@ const Home = () => {
       <div className="container">
         <img className="cover" src={hslogo}></img>
         <div className="menu">
-          <a href="/2023">2023</a>
+          <a href="/2024">2024</a>
+          <a href="/2023 className=old">2023</a>
           <a href="/2020" className="old">
             2020
           </a>

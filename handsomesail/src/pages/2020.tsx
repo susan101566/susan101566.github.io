@@ -37,7 +37,7 @@ const Page = () => {
   return (
     <Article
       title={"2020 - Believe, part of it"}
-      sections={[{title: "", content}]}
+      sections={[{ title: "", content }]}
     />
   )
 }
