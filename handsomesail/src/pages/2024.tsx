@@ -32,7 +32,7 @@ There’s a price to pay for liquidity (can you buy and sell in an instant?) and
 
 ENDING NOT FINANCIAL ADVICE
 
-I feel so sad the program is over. There were so many firsts: I went to a college bar in CO, ski-ed with NCAA champions, and hung out with professors. I did care about my work, but I also got to know people. It felt good when I won the 2024 MS Finance student award of the year award and had everyone clapping for me at graduation, instead of having them look around and wonder who’s that kid. I had a surreal time this past 9 months, and sadly, it’s time to return to reality. Which is?
+I feel so sad the program is over. There were so many firsts: I went to a college bar in CO, ski-ed with NCAA champions, and hung out with professors. I did care about my work, but I also got to know people. It felt good when I won the 2024 MS Finance student of the year award and had everyone clapping for me at graduation, instead of having them look around and wonder who’s that kid. I had a surreal time this past 9 months, and sadly, it’s time to return to reality. Which is?
 
 I’m happy to say that I found a job! It’s at a startup called Rive. Figma made me fall in love with very visual work, and I just can’t imagine doing anything else. I’m excited to be a software engineer again, just doing some coding and learning about animations. My salary will be a fraction of what it was, but hopefully with my new found knowledge, I can make it work? The art is in divvying up cash and equity, right?
 
