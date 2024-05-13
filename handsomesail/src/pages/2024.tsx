@@ -40,7 +40,7 @@ I’m happy to say that I found a job! It’s at a startup called Rive. Figma ma
 
 const Page = () => {
   return (
-    <Article title={"2024 - 10+14=24"} sections={[{ title: "", content }]} />
+    <Article title={"2024: 10+14=24"} sections={[{ title: "", content }]} />
   )
 }
 
